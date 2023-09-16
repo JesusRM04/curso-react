@@ -2,9 +2,10 @@
     padding: 5px;
     
     border-radius: 5px;
-   
+    display: flex;
+    column-gap: 5px;
 }
 
 .NavItem:hover{
-    background-color: rgb(91, 88, 88);
+    background-color: rgb(173, 171, 171);
 }
